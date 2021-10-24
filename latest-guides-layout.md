@@ -46,7 +46,7 @@
 
 
 ## System Administration Guide
-### Interfaces
+### User Interfaces
  - Graphical Interface (RIO)
  - Command Line Interface (CLI)
 
