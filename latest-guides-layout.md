@@ -90,7 +90,6 @@
 ### Set up DNS server
 ### Set up Time server
 
- - Transfer files over the network
 
 
 ## Storage Administration Guide
