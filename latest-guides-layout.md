@@ -27,7 +27,7 @@
 ### Installation procedures
 
 
-## Installation Guide (Multi-server installation)
+## Installation Guide (Cluster installation)
 ### Planning
 ### Select and download distribution
 ### Create installation media
